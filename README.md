@@ -15,6 +15,7 @@ Instead of manually searching through hundreds of job postings, this workflow au
 
 ## Workflow
 
+```
 Daily Trigger
 ⬇️
 Load Candidate Profile
@@ -30,6 +31,7 @@ Filter Best Matches
 Save Results to Google Sheets
 ⬇️
 Send Email Summary
+```
 
 ## Tech Stack
 
