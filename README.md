@@ -17,19 +17,19 @@ Instead of manually searching through hundreds of job postings, this workflow au
 
 ```
 Daily Trigger
-⬇️
+    ⬇️
 Load Candidate Profile
-⬇️
+    ⬇️
 Fetch Job Listings
-⬇️
+    ⬇️
 Process Job Data
-⬇️
+    ⬇️
 AI-Based Job Matching (Groq)
-⬇️
+    ⬇️
 Filter Best Matches
-⬇️
+    ⬇️
 Save Results to Google Sheets
-⬇️
+    ⬇️
 Send Email Summary
 ```
 
